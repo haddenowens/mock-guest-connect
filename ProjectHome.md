@@ -1,0 +1,1 @@
+Mocked exemple of an Android app  that autoconnects to a GUEST WIFI
